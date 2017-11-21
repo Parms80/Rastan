@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: 60e9f909886c742c8bfee20ef119b622
+timeCreated: 1494517125
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rastan_0
+    21300002: Rastan_1
+    21300004: Rastan_2
+    21300006: Rastan_3
+    21300008: Rastan_4
+    21300010: Rastan_5
+    21300012: Rastan_6
+    21300014: Rastan_7
+    21300016: Rastan_8
+    21300018: Rastan_9
+    21300020: Rastan_10
+    21300022: Rastan_11
+    21300024: Rastan_12
+    21300026: Rastan_13
+    21300028: Rastan_14
+    21300030: Rastan_15
+    21300032: Rastan_16
+    21300034: Rastan_17
+    21300036: Rastan_18
+    21300038: Rastan_19
+    21300040: Rastan_20
+    21300042: Rastan_21
+    21300044: Rastan_22
+    21300046: Rastan_23
+    21300048: Rastan_24
+    21300050: Rastan_25
+    21300052: Rastan_26
+    21300054: Rastan_27
+    21300056: Rastan_28
+    21300058: Rastan_29
+    21300060: Rastan_30
+    21300062: Rastan_31
+    21300064: Rastan_32
+    21300066: Rastan_33
+    21300068: Rastan_34
+    21300070: Rastan_35
+    21300072: Rastan_36
+    21300074: Rastan_37
+    21300076: Rastan_38
+    21300078: Rastan_39
+    21300080: Rastan_40
+    21300082: Rastan_41
+    21300084: Rastan_42
+    21300086: Rastan_43
+    21300088: Rastan_44
+    21300090: Rastan_45
+    21300092: Rastan_46
+    21300094: Rastan_47
+    21300096: Rastan_48
+    21300098: Rastan_49
+    21300100: Rastan_50
+    21300102: Rastan_51
+    21300104: Rastan_52
+    21300106: Rastan_53
+    21300108: Rastan_54
+    21300110: Rastan_55
+    21300112: Rastan_56
+    21300114: Rastan_57
+    21300116: Rastan_58
+    21300118: Rastan_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rastan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 32
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 62}
+        - {x: -12, y: 62}
+        - {x: -16, y: 49}
+        - {x: -16, y: 31}
+        - {x: -14, y: 26}
+        - {x: -16, y: 5}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+        - {x: 14, y: 50}
+    - name: Rastan_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 519
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 519
+        width: 27
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 519
+        width: 27
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 533
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 48}
+        - {x: -12, y: 47}
+        - {x: -16, y: 36}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 38}
+        - {x: 5, y: 48}
+    - name: Rastan_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 513
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 68}
+        - {x: -16, y: 22}
+        - {x: -13, y: 0}
+        - {x: 9, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 59}
+        - {x: 2, y: 68}
+    - name: Rastan_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 530
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 51}
+        - {x: -23, y: 22}
+        - {x: -19, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 30}
+        - {x: 16, y: 51}
+    - name: Rastan_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 533
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 48}
+        - {x: -10, y: 48}
+        - {x: -24, y: 45}
+        - {x: -24, y: 11}
+        - {x: -19, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 21}
+        - {x: 21, y: 38}
+    - name: Rastan_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 533
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 533
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 60
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 48}
+        - {x: -30, y: 0}
+        - {x: 9, y: 0}
+        - {x: 30, y: 27}
+        - {x: 30, y: 37}
+        - {x: -7, y: 48}
+    - name: Rastan_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 475
+        width: 46
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37}
+        - {x: -23, y: 30}
+        - {x: -12, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 24}
+        - {x: 22, y: 32}
+        - {x: 15, y: 36}
+        - {x: 7, y: 37}
+    - name: Rastan_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 480
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -24, y: 24}
+        - {x: -24, y: 14}
+        - {x: -7, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 22}
+        - {x: 20, y: 32}
+    - name: Rastan_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 480
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 480
+        width: 61
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 32}
+        - {x: -29.5, y: 27}
+        - {x: -30.5, y: 20}
+        - {x: -30.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 30.5, y: 8}
+        - {x: 30.5, y: 21}
+        - {x: -0.5, y: 32}
+    - name: Rastan_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 455
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 57}
+        - {x: -23, y: 50}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 22, y: 8}
+        - {x: 23, y: 10}
+        - {x: 23, y: 43}
+        - {x: 19, y: 57}
+    - name: Rastan_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 54}
+        - {x: -24, y: 41}
+        - {x: -24, y: 35}
+        - {x: -8, y: 0}
+        - {x: 17, y: 0}
+        - {x: 24, y: 14}
+        - {x: 24, y: 45}
+        - {x: 18, y: 54}
+    - name: Rastan_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 400
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 400
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 400
+        width: 58
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 54}
+        - {x: -29, y: 48}
+        - {x: -29, y: 0}
+        - {x: -9, y: 0}
+        - {x: 29, y: 23}
+        - {x: 29, y: 43}
+        - {x: -8, y: 54}
+    - name: Rastan_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 398
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 56}
+        - {x: -16.5, y: 56}
+        - {x: -17.5, y: 50}
+        - {x: -17.5, y: 19}
+        - {x: -14.5, y: 1}
+        - {x: -12.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 42}
+        - {x: -3.5, y: 54}
+    - name: Rastan_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 382
+        width: 29
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 28
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 392
+        width: 35
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 62}
+        - {x: -17.5, y: 7}
+        - {x: -14.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 62}
+    - name: Rastan_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 376
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 361
+        width: 26
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 54}
+        - {x: -18.5, y: 42}
+        - {x: -18.5, y: 23}
+        - {x: -9.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 18.5, y: 14}
+        - {x: 18.5, y: 39}
+        - {x: 11.5, y: 54}
+    - name: Rastan_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 306
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 314
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: -2, y: 64}
+    - name: Rastan_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 241
+        width: 28
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 241
+        width: 27
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 27
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 30}
+        - {x: 15, y: 34}
+        - {x: -1, y: 50}
+        - {x: -16, y: 50}
+    - name: Rastan_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 235
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 70}
+        - {x: -16, y: 25}
+        - {x: -13, y: 0}
+        - {x: 1, y: 0}
+        - {x: 15, y: 8}
+        - {x: 16, y: 9}
+        - {x: 16, y: 45}
+        - {x: 3, y: 70}
+    - name: Rastan_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 246
+        width: 55
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 47}
+        - {x: 11.5, y: 53}
+        - {x: -14.5, y: 59}
+        - {x: -27.5, y: 59}
+        - {x: -27.5, y: 47}
+        - {x: -8.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 24}
+        - {x: 25.5, y: 38}
+    - name: Rastan_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 246
+        width: 63
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 48}
+        - {x: -31.5, y: 40}
+        - {x: -31.5, y: 19}
+        - {x: -6.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 41}
+        - {x: 25.5, y: 48}
+    - name: Rastan_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 246
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 48}
+        - {x: -16, y: 45}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 25}
+        - {x: 12, y: 48}
+    - name: Rastan_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 48}
+        - {x: -18, y: 33}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 39}
+        - {x: 7, y: 48}
+    - name: Rastan_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 186
+        width: 68
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22}
+        - {x: 34, y: 29}
+        - {x: 34, y: 40}
+        - {x: 32, y: 47}
+        - {x: 19, y: 48}
+        - {x: -34, y: 48}
+        - {x: -34, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 6}
+        - {x: -5, y: 16}
+    - name: Rastan_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 45}
+        - {x: -27.5, y: 36}
+        - {x: -25.5, y: 33}
+        - {x: -22.5, y: 32}
+        - {x: -3.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 24}
+        - {x: 26.5, y: 32}
+        - {x: 19.5, y: 36}
+        - {x: -14.5, y: 45}
+    - name: Rastan_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 15}
+        - {x: -15.5, y: 1}
+        - {x: -11.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 32}
+        - {x: -31.5, y: 32}
+    - name: Rastan_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 189
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -9, y: 29}
+        - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 22}
+        - {x: 13, y: 32}
+    - name: Rastan_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 189
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 32}
+        - {x: -18.5, y: 32}
+        - {x: -18.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 18.5, y: 1}
+        - {x: 18.5, y: 22}
+    - name: Rastan_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 189
+        width: 69
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 32}
+        - {x: -34.5, y: 29}
+        - {x: -34.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 34.5, y: 12}
+        - {x: 34.5, y: 26}
+        - {x: 12.5, y: 32}
+    - name: Rastan_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 50}
+        - {x: -4.5, y: 46}
+        - {x: -1.5, y: 49}
+        - {x: -5.5, y: 58}
+        - {x: -18.5, y: 58}
+        - {x: -18.5, y: 17}
+        - {x: -12.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 42}
+        - {x: 4.5, y: 50}
+    - name: Rastan_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 111
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 28
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 55
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 65}
+        - {x: -27.5, y: 46}
+        - {x: -3.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 27.5, y: 10}
+        - {x: 27.5, y: 45}
+        - {x: 15.5, y: 65}
+    - name: Rastan_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 131
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 26}
+        - {x: -2.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 31.5, y: 15}
+        - {x: 31.5, y: 54}
+        - {x: -27.5, y: 54}
+        - {x: -31.5, y: 53}
+    - name: Rastan_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 131
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 54}
+        - {x: -5, y: 54}
+        - {x: -16, y: 38}
+        - {x: -16, y: 8}
+        - {x: -14, y: 0}
+        - {x: 2, y: 0}
+        - {x: 15, y: 8}
+        - {x: 16, y: 11}
+        - {x: 16, y: 36}
+        - {x: 13, y: 45}
+    - name: Rastan_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 0}
+        - {x: 17, y: 10}
+        - {x: 17, y: 39}
+        - {x: 11, y: 54}
+        - {x: -15, y: 54}
+        - {x: -17, y: 53}
+        - {x: -17, y: 0}
+    - name: Rastan_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 131
+        width: 66
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 29}
+        - {x: 31, y: 34}
+        - {x: 33, y: 36}
+        - {x: 33, y: 42}
+        - {x: 30, y: 45}
+        - {x: -4, y: 54}
+        - {x: -27, y: 54}
+        - {x: -31, y: 53}
+        - {x: -33, y: 46}
+        - {x: -33, y: 0}
+        - {x: -24, y: 0}
+        - {x: -15, y: 8}
+        - {x: -3, y: 23}
+        - {x: -4, y: 28}
+    - name: Rastan_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 37
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 56}
+        - {x: -4.5, y: 52}
+        - {x: -2.5, y: 56}
+        - {x: -1.5, y: 60}
+        - {x: -6.5, y: 64}
+        - {x: -18.5, y: 64}
+        - {x: -18.5, y: 22}
+        - {x: -13.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 46}
+        - {x: 7.5, y: 62}
+    - name: Rastan_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 31
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 27
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 41
+        width: 52
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 54}
+        - {x: -24, y: 47}
+        - {x: -26, y: 43}
+        - {x: -26, y: 35}
+        - {x: -23, y: 32}
+        - {x: -5, y: 0}
+        - {x: 13, y: 0}
+        - {x: 26, y: 13}
+        - {x: 26, y: 39}
+        - {x: 19, y: 54}
+    - name: Rastan_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 41
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rastan_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
